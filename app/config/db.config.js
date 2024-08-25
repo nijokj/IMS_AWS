@@ -1,7 +1,7 @@
 module.exports = {
-  HOST: "localhost",
-  USER: "root",
-  PASSWORD: "",
+  HOST: "nijo-db.cbakg20oyeku.ap-south-1.rds.amazonaws.com",
+  USER: "nijoadmin",
+  PASSWORD: "nijoadmin",
   DB: "invsys",
   dialect: "mysql",
   pool: {
